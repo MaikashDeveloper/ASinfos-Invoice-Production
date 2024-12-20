@@ -5,6 +5,7 @@ import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 
+// I totaly Forget i hav don in this project totaly eeeeeeeeeeeee
 void main() async {
   // inti the hive
   await Hive.initFlutter();
